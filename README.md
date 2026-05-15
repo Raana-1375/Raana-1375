@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### About me
-* I am a Front-End Web Development student at **Factoría F5**
+* I am a Web Development student at **Factoría F5**
 * 🎓 I hold a **Master's Degree in Business Administration (MBA)**
 
 ### Currently learning...
