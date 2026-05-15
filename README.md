@@ -1,13 +1,27 @@
 ## Hi there 👋
-I am a  Web Development student at *Factoría F5*
 
-- 🔭 **I’m currently working on:** Developing responsive web applications using HTML5, CSS3 (Flexbox/BEM methodology), and JavaScript.
-- 🌱 **I'm currently learning:**
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="25"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="25"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="25"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" height="25"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="25"/>
-<img src="https://img.shields.io/badge/Scrum-1285B4?style=flat&logo=scrum&logoColor=white" alt="Scrum" height="25"/>
+### About me
+* I am a Front-End Web Development student at **Factoría F5**
+* 🎓 I hold a **Master's Degree in Business Administration (MBA)**
 
+### Currently learning...
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
+</p>
+
+### Contact
+
+<a href="mailto:raanaafkari96@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</p>
+
+---
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Raana-1375&label=Profile%20views&color=0e75b6&style=flat" alt="Raana-1375" />
+</p>
